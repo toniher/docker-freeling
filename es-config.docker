@@ -1,2 +1,0 @@
-
-RUN ls -d /usr/share/freeling/?? | egrep -v es | xargs rm -rf 
