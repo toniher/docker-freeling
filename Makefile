@@ -1,6 +1,6 @@
 
 MPATH=/usr/local/opt/gnu-tar/libexec/gnubin:$(PATH)
-IMAGE=herchu/freeling4
+IMAGE=toniher/freeling4
 BUILDTAG=v0
 PUBLITAG=pub
 DOCKERCFG=dependencies.docker freeling.docker locale.docker
